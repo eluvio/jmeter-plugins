@@ -1,3 +1,9 @@
+# Eluvio
+
+This is modified from https://github.com/egaillardon/jmeter-plugins to use the forked: https://github.com/eluvio/jmeter that includes for X11-GUI compatibility, HTTP2 support, and add a simple `Makefile` for our docker repo
+
+---------
+
 # Docker image for **Apache JMeter** and **JMeter plugins**
 
 [![Apache JMeter Logo](https://jmeter.apache.org/images/logo.svg)](https://jmeter.apache.org)
